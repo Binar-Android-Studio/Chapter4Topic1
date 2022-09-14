@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:id="@+id/card">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@drawable/bgcard">
+
+        <TextView
+            android:id="@+id/judul"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:text="JudulBerita"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/judul"
+            android:id="@+id/pembuat"
+            android:text="disunting Oleh"/>
+
+        <ImageView
+            android:id="@+id/studentimage"
+            android:layout_width="120dp"
+            android:layout_height="60dp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/bjorka" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pembuat"
+            android:text="disunting Tanggal"
+            android:id="@+id/tanggal"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
