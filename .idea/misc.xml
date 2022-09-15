@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Program_Files/Android/app/src/main/res/layout/activity_another_data_binding.xml" value="0.1" />
+        <entry key="..\:/Program_Files/Android/app/src/main/res/layout/activity_contact.xml" value="0.1" />
+        <entry key="..\:/Program_Files/Android/app/src/main/res/layout/activity_detail_student.xml" value="0.1" />
+        <entry key="..\:/Program_Files/Android/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program_Files/Android/app/src/main/res/layout/activity_student.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program_Files/Android/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/Program_Files/Android/app/src/main/res/layout/activity_using_view_model.xml" value="0.11614583333333334" />
+        <entry key="..\:/Program_Files/Android/app/src/main/res/layout/item_contact.xml" value="0.34375" />
         <entry key="..\:/Program_Files/AndroidStudio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
         <entry key="..\:/Program_Files/AndroidStudio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
         <entry key="..\:/Program_Files/AndroidStudio/app/src/main/res/layout/activity_detail_student.xml" value="0.33" />
